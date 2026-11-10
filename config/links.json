@@ -1,0 +1,44 @@
+[
+  {
+    "title": "YouTube",
+    "url": "https://youtube.com/@username",
+    "icon": "youtube",
+    "subtitle": "Video dan konten terbaru",
+    "enabled": true
+  },
+  {
+    "title": "Discord",
+    "url": "https://discord.gg/your-invite",
+    "icon": "discord",
+    "subtitle": "Gabung ke komunitas",
+    "enabled": true
+  },
+  {
+    "title": "WhatsApp",
+    "url": "https://wa.me/6281234567890",
+    "icon": "whatsapp",
+    "subtitle": "Hubungi saya langsung",
+    "enabled": true
+  },
+  {
+    "title": "Instagram",
+    "url": "https://instagram.com/username",
+    "icon": "instagram",
+    "subtitle": "Foto dan aktivitas sehari-hari",
+    "enabled": true
+  },
+  {
+    "title": "TikTok",
+    "url": "https://tiktok.com/@username",
+    "icon": "tiktok",
+    "subtitle": "Video singkat",
+    "enabled": true
+  },
+  {
+    "title": "Website",
+    "url": "https://example.com",
+    "icon": "website",
+    "subtitle": "Kunjungi website saya",
+    "enabled": false
+  }
+]
